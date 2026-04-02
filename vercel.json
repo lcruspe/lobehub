@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm run build:spa:copy && pnpm run build:next",
+  "buildCommand": "pnpm run build:next",
   "headers": [
     {
       "source": "/_spa/(.*)",
